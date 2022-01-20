@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+
+.navbar-brand{
+    font-family: 'Ephesis', cursive;
+  font-size: 20px;
+ 
+
+}
+.navbar{
+  position: fixed;
+}
+body{
+  background-image: url("https://www.worldatlas.com/r/w1200/upload/12/f8/83/coffee-cup.jpg");
+  
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  min-height: 500px;
+}
+a{
+    color: white;
+}
+.kinds{
+  color: aliceblue;
+  opacity: 80%;
+}
+#dkc{
+  margin-left: 296px;
+    margin-top: -340px;
+  color: aliceblue;
+  opacity: 80%;
+  text-align: justify;
+  padding-right: 30px;
+}
+#cah{
+  color: aliceblue;
+    width: 1000px;
+    margin-left: 50px;
+    padding: 10px;
+    opacity: 80%;
+    text-align: justify;
+  }
+#cont{
+  color: aliceblue;
+    opacity: 80%;
+    margin-left: 2%;
+    text-align: justify;
+    padding-right: 41px;
+    width: 50%;
+}
+#cnt{
+  text-align: center;
+}
+#ref{
+  margin-left: 70%;
+  color: aliceblue;
+  opacity: 90%;
+  margin-top: -157px;
+  text-align: justify;
+}
+.foot{
+  background-color: rgb(68 52 52);
+  opacity: 90%;
+}
+#abt{
+  text-align: justify;
+  padding: 10px;
+  color: #fbf9f9;
+  width: 50%;
+}
+.about{
+    text-align: center;
+  }
+  .feed{
+    margin-left: 57%;
+    margin-top: -140px;
+    margin-right: 10px;
+  }
+  .fd{
+    color: rgb(250, 250, 250);
+    opacity: 90%;
+  }
